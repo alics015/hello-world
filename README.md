@@ -1,2 +1,3 @@
 # hello-world
 This is hello-world project(sample project).
+I am Mohammedali learning how to use github....
